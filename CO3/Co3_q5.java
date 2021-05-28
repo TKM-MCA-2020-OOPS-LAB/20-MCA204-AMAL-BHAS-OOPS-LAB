@@ -2,7 +2,7 @@ package Co3_Q5;
 
 import java.util.Scanner;
 
-public class Student
+class Student
 {
 	String name;
 	int roll_no,phy,chem,math;
@@ -55,7 +55,15 @@ public class Student
 				System.out.println("Sports score: "+sprt);
 			}
 		}
-		
+public class Co3_q5 
+{
+	public static void main(String[] args)
+	{
+		Result obj=new Result();
+		obj.display();
+	}
+
+}		
 	
 
 		
