@@ -1,6 +1,4 @@
-package Course_Outcome4;
-
-import Course_Outcome4.Area;
+import Graphics.Area;
 
 public class CO4_Q1 {
 
